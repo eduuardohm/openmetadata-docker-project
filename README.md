@@ -25,7 +25,7 @@ Para a ingestão de dados no OM, foram seguidas as seguintes etapas:
 
 | Selecione o tipo de serviço para a conexão   
 | ---------------------------------- |
-| <img src="docs/images/1b_Service-Type.png""/> |
+| <img src="docs/images/1b_Service-Type.png"/> |
 
 | Defina o nome do serviço e a descrição (opcional)
 | ---------------------------------- |
